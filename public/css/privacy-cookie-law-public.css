@@ -1,0 +1,30 @@
+.pcl {
+    background: #52565a;
+    box-sizing: border-box;
+    width: 100%;
+    position: fixed;
+    color: #cacaca;
+    top: 0;
+}
+
+.pcl-message {
+    display: table-cell;
+    padding-top: 48px;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-align: center;
+    font-size: 1.2em;
+    height: 5em;;
+}
+
+.plc-close {
+    float: right;
+    margin-right: 1em;
+    padding: 0 3px 0 3px;
+    font-size: .7em;
+    color: white;
+}
+
+.pcl a {
+    color: white;
+}

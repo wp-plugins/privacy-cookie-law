@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Privacy Cookie Law\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jan 15 2015 23:22:16 GMT+0100 (CET)\n"
+"PO-Revision-Date: Mon Jan 19 2015 20:57:04 GMT+0100 (CET)\n"
+"Last-Translator: admin <francesco@wowdinamica.it>\n"
+"Language-Team: \n"
+"Language: Italian\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: it_IT\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../includes/wp-settings-framework.php:63
+msgid "WPSF settings must be an array"
+msgstr "WPSF settings deve essere un array"
+
+#: ../includes/wp-settings-framework.php:307
+msgid "Save Changes"
+msgstr "Salva i cambiamenti"
+
+#: ../public/class-privacy-cookie-law-public.php:110
+msgid "Read our Privacy Policy"
+msgstr "Leggi la nostra Informativa sulla privacy"
+
+#: ../public/class-privacy-cookie-law-public.php:113
+msgid "close"
+msgstr "Chiudi"
+
+#: ../settings/settings.php:125
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: ../settings/settings.php:130
+msgid "Enable Plugin"
+msgstr "Attiva il Plugin"
+
+#: ../settings/settings.php:131
+msgid "Enable Privacy Cookie Law."
+msgstr "Attiva Privacy Cookie Law."
+
+#: ../settings/settings.php:136
+msgid "Enable"
+msgstr "Attiva"
+
+#: ../settings/settings.php:142
+msgid "Message"
+msgstr "Messaggio"
+
+#: ../settings/settings.php:143 ../settings/settings.php:144
+msgid "Message to display."
+msgstr "Messaggio da visualizzare"
+
+#: ../settings/settings.php:146
+msgid ""
+"Cookies help us to provide our services. Using these services, you agree to "
+"the use of cookies on our part."
+msgstr ""
+"I cookie ci aiutano a fornire i nostri servizi. Utilizzando tali servizi, "
+"accetti l'utilizzo dei cookie da parte nostra."
+
+#: ../settings/settings.php:150
+msgid "URL Privacy Page"
+msgstr "URL Pagina Privacy"
+
+#: ../settings/settings.php:151
+msgid "Page address of the Privacy Act"
+msgstr "URL della pagina sulla privacy"
+
+#: ../settings/settings.php:152
+msgid "http://"
+msgstr "http://"
+
+#: ../settings/settings.php:158
+msgid "Link Text"
+msgstr "Testo del link"
+
+#: ../settings/settings.php:159
+msgid "Link text of the page privacy"
+msgstr "Testo del link alla pagina della privacy."
+
+#: ../settings/settings.php:160 ../settings/settings.php:162
+msgid "More Info"
+msgstr "Maggiori Informazioni"
